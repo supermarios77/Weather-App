@@ -19,7 +19,8 @@
     "react-native-heroicons": "^3.2.0",
     "react-native-linear-gradient": "^2.8.3",
     "react-native-svg": "13.9.0",
-    "react-native-web": "~0.19.6"
+    "react-native-web": "~0.19.6",
+    "undefined": "react-native-heroicons/outline"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
