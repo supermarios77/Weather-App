@@ -21,7 +21,8 @@
     "react-native-svg": "13.9.0",
     "react-native-web": "~0.19.6",
     "undefined": "react-native-heroicons/outline",
-    "expo-location": "~16.1.0"
+    "expo-location": "~16.1.0",
+    "expo-font": "~11.4.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
